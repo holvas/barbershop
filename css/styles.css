@@ -178,10 +178,10 @@ img {
   justify-content: space-between;
   overflow-y: auto;
 }
-.menu-open-btn {
+/* .menu-open-btn {
   display: block;
   margin-left: auto;
-}
+} */
 .mob-menu-list {
   margin-bottom: 64px;
 }
