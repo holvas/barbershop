@@ -1,4 +1,9 @@
 @media screen and (min-width: 480px) {
+  .menu-open-btn {
+  display: block;
+  margin-left: auto;
+  }
+  
   .container {
     max-width: 448px;
   }
