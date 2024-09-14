@@ -42,4 +42,10 @@
   .gallery-item {
     width: calc((100% - 90px) / 4);
   }
+
+  .is-hidden {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
 }
