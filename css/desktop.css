@@ -48,4 +48,8 @@
     visibility: hidden;
     pointer-events: none;
   }
+
+  .menu-open-btn {
+    display: none;
+  }
 }
